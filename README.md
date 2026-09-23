@@ -1,23 +1,15 @@
-Hey there 👋! 
 
-I'm Ankit Pandey, a Cyber Security student passionate about building, breaking, and securing things.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/auterchic_0911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankit Pandey) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ankit Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitpandey703393@gmail.com) 
 
-I enjoy turning ideas into real projects and learning how systems work under the hood. If I find something interesting in cybersecurity, chances are I'll try to build a project around it.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=cybernova-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=cybernova-afk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=cybernova-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My main tech stack includes Python, Linux, Flask, SQL, Networking, and cybersecurity tools like Nmap. I'm especially interested in Vulnerability Assessment, Network Security, Ethical Hacking, and Security Automation.
+---
+[![](https://komarev.com/ghpvc/?username=cybernova-afk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I've built projects like a Hybrid Vulnerability Scanner and I'm currently working on more cybersecurity tools and security-focused projects to strengthen my skills.
-
-My goal is simple: keep learning, keep building, and become a better cybersecurity professional every day. 🔐
-
-Fun Facts:
-
-• I love cybersecurity 🔐
-• I'm a gym enthusiast 💪
-• I enjoy building projects from scratch
-• Kali Linux is one of my favorite environments 🐉
-• I'm always curious about how things work behind the scenes
-• I like anime 🎌
-• I believe the best way to learn is by building
-
-Hobbies: Cybersecurity, Gym, Anime, Linux, Building Projects, Exploring New Technologies
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
